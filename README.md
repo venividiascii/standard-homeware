@@ -8,6 +8,8 @@ You know how Animal Crossings has sets of furniture, and each set has a differen
 - Drawer organizers
 - Business card holder
 - Bookends
+- Tissue boxes
+- Doilies
 - Headphone stand
 - Keyboard wristpad?
 - Tabletop organizers and drawers
@@ -30,4 +32,9 @@ Other stuff to update
 
 I literally need a brand. An icon that I can stamp on objects. What sort of setup making something easily mountable. I need a list of options, trying to find one that's balanced, given the weight limitations. Are there government safety standards for wall hanging?
 
-
+## Our Values
+- Everything is easy to find
+- Designs follow best practice guidelines
+- You can sort by compatible printer
+- Every object has a version for smaller printers
+- 
