@@ -47,6 +47,18 @@ The original Animal Crossing game had dozens of furniture sets, eash with a bed,
 You can mix and match items from different sets, such as a drawer from one set can go in the organizer from another.
 
 ## Buzzword Bank
-The name of this project is not finalized, so in this place I'll list relevant words that could be used to describe the project. Mix and Match, Categories. Choose your function and style. I need to solidify some terminology too. Each part has size/configuration variants, and style variants. What do I call those? I could call each style a "set" which implies that it includes other parts. I think people intuitive understand the furniture sets in Animal Crossing
+The name of this project is not finalized, so in this place I'll list relevant words that could be used to describe the project. Mix and Match, Categories. Choose your function and style. 
+
+homewares
+organized
+catalog of standard homewares
+
+Good 3D Household Goods and Decor
+essentials and accessories
+
+Needs to be a comment system. Send github feature requests or something. Idk
+People can submit new sizes 
+Parametric via modularity
+
 
 This site was not built using [GitHub Pages](https://pages.github.com/)
