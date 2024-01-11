@@ -7,22 +7,22 @@ The original Animal Crossing game had dozens of furniture sets, eash with a bed,
 ![image](https://github.com/nathangineer/standard-homeware/assets/26797863/1f46f934-0c8f-45b6-9945-6aa1b74b5051)
 
 ## Sets
-- Vanilla - This bare bones set acts as a template set for all the others
-- Rounded
-- See-through
+- Vanilla - This bare bones set acts as a template set for all the others. Might have some rounded corners, as a treat.
+
 - Geometric
 - Roll-top desk
 - Art Deco
 - 60s
 - Forest
-- Submit your idea as an Issue
+- See-through vs opaque sets
+- Submit your idea as an Issue!
 
 ## Objects
 - Plant thing
-- Pencil Cup
+- Pencil cup
 - Tool caddy
 - Charging station
-- Drawer organizers
+- Drawer organizers (Mezzanine shelf)
 - Business card holder
 - Bookends
 - Tissue boxes
@@ -38,6 +38,9 @@ The original Animal Crossing game had dozens of furniture sets, eash with a bed,
 - Modren electronic compatible. Paper is the new pager.
 
 ## Best Practices
+-
+- Repeatability - Parts work even on low-end printers, due to careful tolerancing standards
+- Safety - Nobody gets hurt. Wall-mounted objects will standardized mounting systems. 
 - You can sort by compatible printer
 - Every object has a version for smaller printers
 - What sort of setup making something easily mountable. I need a list of options, trying to find one that's balanced, given the weight limitations. Are there government safety standards for wall hanging?
