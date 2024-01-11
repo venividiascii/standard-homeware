@@ -37,7 +37,7 @@ The original Animal Crossing game had dozens of furniture sets, eash with a bed,
 - Modren electronic compatible. Paper is the new pager.
 
 ## Best Practices
-- Repeatability - Parts work even on low-end printers, due to careful tolerancing standards.
+- Repeatability - Parts print easily on all 3D printers, and look great on high end machines.
 - Safety - Nobody gets hurt. Wall-mounted objects will standardized mounting systems. Don't shoot your eye out.
 - You can sort by compatible printer
 - Every object has a version for smaller printers
