@@ -17,13 +17,15 @@ The original Animal Crossing game had dozens of furniture sets, eash with a bed,
 - Submit your idea as an Issue!
 
 ## Objects
+# Desk
 - Plant thing
 - Pencil cup
 - Tool caddy
 - Charging station
 - Drawer organizers (Mezzanine shelf)
+- Drawer top hanger box. like my nightstand
 - Business card holder
-- Bookends
+- Bookends. T and L
 - Tissue boxes
 - Doilies
 - Headphone stand
@@ -43,6 +45,8 @@ The original Animal Crossing game had dozens of furniture sets, eash with a bed,
 - Every object has a version for smaller printers
 - What sort of setup making something easily mountable. I need a list of options, trying to find one that's balanced, given the weight limitations. Are there government safety standards for wall hanging?
 - Objects include a logo or brand stamp in an unobtrusive location
+- Printing suggestions for each part
+- Each 
 
 You can mix and match items from different sets, such as a drawer from one set can go in the organizer from another.
 
@@ -52,6 +56,7 @@ The name of this project is not finalized, so in this place I'll list relevant w
 homewares
 organized
 catalog of standard homewares
+form and function
 
 Good 3D Household Goods and Decor
 essentials and accessories
