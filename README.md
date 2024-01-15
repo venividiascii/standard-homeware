@@ -53,13 +53,7 @@ You can mix and match items from different sets, such as a drawer from one set c
 ## Buzzword Bank
 The name of this project is not finalized, so in this place I'll list relevant words that could be used to describe the project. Mix and Match, Categories. Choose your function and style. 
 
-homewares
-organized
-catalog of standard homewares
-form and function
-
-Good 3D Household Goods and Decor
-essentials and accessories
+homewares. organized. catalog of standard homewares. form and function. Good 3D Household Goods and Decor. essentials and accessories
 
 Needs to be a comment system. Send github feature requests or something. Idk
 People can submit new sizes 
