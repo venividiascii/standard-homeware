@@ -16,8 +16,21 @@ The original Animal Crossing game had dozens of furniture sets, eash with a bed,
 - See-through vs opaque sets. Even the vanilla set might have a see-thru vairant.
 - Submit your idea as an Issue!
 
-## Objects
-# Desk
+## Planned Inventory
+Organized by zone (Should I do function or organization? How would a store organize it? Items can have multiple zones?)
+### Desk
+### Clothing
+- Hangers
+- Accessories
+- Crochet bases, like a shoe sole
+### Bedtime
+- Nightstand caddie
+### Kitchen
+### Bathroom
+- Bar soap holder
+- Toilet paper
+### H
+### Drawer
 - Plant thing
 - Pencil cup
 - Tool caddy
