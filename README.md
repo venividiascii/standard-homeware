@@ -26,11 +26,20 @@ Organized by zone (Should I do function or organization? How would a store organ
 ### Bedtime
 - Nightstand caddie
 ### Kitchen
+- Fruit baskets
+- Bread box
+- Cutting guide?
 ### Bathroom
 - Bar soap holder
 - Toilet paper
-### H
+### Outdoors
+- Actual gardening tools
+- Mailbox thing
 ### Drawer
+### Toys
+- Public domain stuff
+- Board Games
+### Unsorted
 - Plant thing
 - Pencil cup
 - Tool caddy
