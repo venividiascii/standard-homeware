@@ -6,7 +6,7 @@ A library of functional 3D models, carefully designed for 3D printing according 
 The original Animal Crossing game had dozens of furniture sets, eash with a bed, couch, chair, dresser etc. This project is that, but for small, functional 3D printed items that you can use around the house. 
 - Vanilla - This bare bones set acts as a template set for all the others. Might have some rounded corners, as a treat.
 - Minimal Material
-- Easy to print
+- Easy to print - Contiguous layers, if possible.
 - Print for life
 - Sample - Skeleton version for testing size. like a two layer picture frame. or the front couple layers of a drawer. Or scaffolding for a box.
 - Geometric - Hope you like triangles
@@ -22,7 +22,6 @@ Organized by Zone
 ### Desktop
 - Pencil cup
 - Business card holder
-
 - Charging station
 - Headphone stand
 - Keyboard wristpad?
@@ -31,14 +30,17 @@ Organized by Zone
 - Drawer bottom partitions
 - Mezzanine shelves on different sides
 - Hanging Desk Drawer Organizer
+- Drawer wall hanger
 ### Bookshelf
-- Paper holders.
+- Paper holders. All orientations
 - Bookends. T and L
 ### Wall
 - Picture Frames
 - Paper holders.
 ### Closet
-- Hangers
+- Hangers. Swivel top?
+- Modular hanger for shoes etc. Make it longer
+- Tie Organizer
 - Accessories
 - Crochet bases, like a shoe sole
 ### Bedroom
@@ -49,7 +51,8 @@ Organized by Zone
 - Bread box
 ### Bathroom
 - Bar soap holder
-- Toilet paper
+- Towel rod hanger for more towels etc.
+- Spare toilet paper holder
 ### Craft Room
 - Crochet stuff
 ### Garage (Tool room?)
