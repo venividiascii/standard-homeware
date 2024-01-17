@@ -6,7 +6,10 @@ A library of functional 3D models, carefully designed for 3D printing according 
 The original Animal Crossing game had dozens of furniture sets, eash with a bed, couch, chair, dresser etc. This project is that, but for small, functional 3D printed items that you can use around the house. 
 - Vanilla - This bare bones set acts as a template set for all the others. Might have some rounded corners, as a treat.
 - Minimal Material
-- Geometric
+- Easy to print
+- Print for life
+- Sample - Skeleton version for testing size. like a two layer picture frame. or the front couple layers of a drawer. Or scaffolding for a box.
+- Geometric - Hope you like triangles
 - Roll-top Desk
 - Art Deco
 - 60s
@@ -15,11 +18,11 @@ The original Animal Crossing game had dozens of furniture sets, eash with a bed,
 - Submit your idea as an Issue!
 
 ## Planned Inventory
-Organized by zone (Should I do function or organization? How would a store organize it? Items can have multiple zones?)
+Organized by Zone 
 ### Desktop
 - Pencil cup
 - Business card holder
-- Bookends. T and L
+
 - Charging station
 - Headphone stand
 - Keyboard wristpad?
@@ -29,9 +32,11 @@ Organized by zone (Should I do function or organization? How would a store organ
 - Mezzanine shelves on different sides
 - Hanging Desk Drawer Organizer
 ### Bookshelf
-- Paper holders
+- Paper holders.
+- Bookends. T and L
 ### Wall
 - Picture Frames
+- Paper holders.
 ### Closet
 - Hangers
 - Accessories
@@ -45,6 +50,8 @@ Organized by zone (Should I do function or organization? How would a store organ
 ### Bathroom
 - Bar soap holder
 - Toilet paper
+### Craft Room
+- Crochet stuff
 ### Garage (Tool room?)
 - Tool organizers
 ### Yard
@@ -88,6 +95,7 @@ homewares. organized. catalog of standard homewares. form and function. Good 3D 
 Needs to be a comment system. Send github feature requests or something. Idk
 People can submit new sizes 
 Parametric via modularity
+Visual catalog with item numbers. 002-03 means item 2, set 3. What about variants?
 
 ## Me
 I've been using CAD software for 20 years, and I've spend the last five years 3D printing as my full time job. So I'm alright at it.
