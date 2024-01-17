@@ -8,8 +8,9 @@ The original Animal Crossing game had dozens of furniture sets, eash with a bed,
 
 ## Sets
 - Vanilla - This bare bones set acts as a template set for all the others. Might have some rounded corners, as a treat.
+- Minimal Material
 - Geometric
-- Roll-top desk
+- Roll-top Desk
 - Art Deco
 - 60s
 - Forest
@@ -18,46 +19,56 @@ The original Animal Crossing game had dozens of furniture sets, eash with a bed,
 
 ## Planned Inventory
 Organized by zone (Should I do function or organization? How would a store organize it? Items can have multiple zones?)
-### Desk
-### Clothing
+### Desktop
+- Pencil cup
+- Business card holder
+- Bookends. T and L
+- Charging station
+- Headphone stand
+- Keyboard wristpad?
+- Tool caddy
+### Drawer
+- Drawer bottom partitions
+- Mezzanine shelves on different sides
+- Hanging Desk Drawer Organizer
+### Bookshelf
+- Paper holders
+### Wall
+- Picture Frames
+### Closet
 - Hangers
 - Accessories
 - Crochet bases, like a shoe sole
-### Bedtime
-- Nightstand caddie
+### Bedroom
+- Nightstand caddie/charger
 ### Kitchen
 - Fruit baskets
+- Countertop shelves
 - Bread box
-- Cutting guide?
 ### Bathroom
 - Bar soap holder
 - Toilet paper
-### Outdoors
+### Garage (Tool room?)
+- Tool organizers
+### Yard
 - Actual gardening tools
+- Camping?
 - Mailbox thing
-### Drawer
-### Toys
-- Public domain stuff
+### Toy Room
+- Classic public domain toys
 - Board Games
-### Unsorted
-- Plant thing
-- Pencil cup
-- Tool caddy
-- Charging station
-- Drawer organizers (Mezzanine shelf)
-- Drawer top hanger box. like my nightstand
-- Business card holder
-- Bookends. T and L
-- Tissue boxes
+### Gym (Health)
+- Exercise visualizer
+- Yoga mat hanger
+### General Living Space
+- Planters
+- Refillable tissue boxes
+- Mail sorter with pencil cups.
+- Key rack
 - Doilies
-- Headphone stand
-- Keyboard wristpad?
 - Tabletop organizers and drawers
 - Rolltop desk drawers, but lots of styles. Modern
 - Organizers for bookshelves
-- Wall Mounted
-  - Picture Frames
-  - Paper holders
 - Modren electronic compatible. Paper is the new pager.
 
 ## Best Practices
