@@ -2,9 +2,8 @@
 A library of functional 3D models, carefully designed for 3D printing according to our best practices. Every item is easy to print, and works as expected.
 
 ## Sets
-The original Animal Crossing game had dozens of furniture sets, eash with a bed, couch, chair, dresser etc. This project is that, but for small, functional 3D printed items that you can use around the house. 
 ![image](https://github.com/nathangineer/standard-homeware/assets/26797863/1f46f934-0c8f-45b6-9945-6aa1b74b5051)
-I've been using CAD software for 20 years, and I've spend the last five years 3D printing as my full time job. So I'm alright at it.
+The original Animal Crossing game had dozens of furniture sets, eash with a bed, couch, chair, dresser etc. This project is that, but for small, functional 3D printed items that you can use around the house. 
 - Vanilla - This bare bones set acts as a template set for all the others. Might have some rounded corners, as a treat.
 - Minimal Material
 - Geometric
@@ -90,5 +89,7 @@ Needs to be a comment system. Send github feature requests or something. Idk
 People can submit new sizes 
 Parametric via modularity
 
+## Me
+I've been using CAD software for 20 years, and I've spend the last five years 3D printing as my full time job. So I'm alright at it.
 
 This site was not built using [GitHub Pages](https://pages.github.com/)
