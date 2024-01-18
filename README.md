@@ -19,7 +19,7 @@ The original Animal Crossing game had dozens of furniture sets, eash with a bed,
 
 ## Planned Inventory
 Organized by Zone 
-#### Desk
+### Desk
 - Pencil cup
 - Business card holder
 - Charging station
@@ -81,7 +81,6 @@ Organized by Zone
 ## Best Practices
 - Repeatability - Parts print easily on all 3D printers, and look great on high end machines.
 - Safety - Nobody gets hurt. Wall-mounted objects will standardized mounting systems. Don't shoot your eye out.
-
 
 # Behind the Scenes
 This is where I sketch out ideas for the projects. Don't tell anyone.
