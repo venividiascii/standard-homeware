@@ -3,10 +3,10 @@ A library of functional 3D models, carefully designed for 3D printing according 
 
 ## Sets
 ![image](https://github.com/nathangineer/standard-homeware/assets/26797863/1f46f934-0c8f-45b6-9945-6aa1b74b5051)
-The original Animal Crossing game had dozens of furniture sets, eash with a bed, couch, chair, dresser etc. This project is that, but for small, functional 3D printed items that you can use around the house. You can go with a basic functional versions
-- Vanilla - This bare bones set acts as a template set for all the others. Might have some rounded corners, as a treat.
-- Minimal Material
-- Easy to print - Contiguous layers, if possible.
+The original Animal Crossing game had dozens of furniture sets, eash with a bed, couch, chair, dresser etc. This project is that, but for small, functional 3D printed items that you can use around the house. You can go with a basic functional versions, or you can get fancy. Here are some of the planned sets:
+- **Vanilla**: This bare bones set acts as a template set for all the others. Might have some rounded corners, as a treat.
+- **Minimal Material**
+- **Easy to print** - Contiguous layers, if possible.
 - Print for life
 - Sample - Skeleton version for testing size. like a two layer picture frame. or the front couple layers of a drawer. Or scaffolding for a box.
 - Geometric - Hope you like triangles
@@ -36,7 +36,7 @@ Organized by Zone
 - Bookends. T and L
 ### Wall
 - Picture Frames
-- Paper holders.
+- Paper holders
 ### Closet
 - Hangers. Swivel top?
 - Modular hanger for shoes etc. Make it longer
@@ -49,8 +49,12 @@ Organized by Zone
 - Fruit baskets
 - Countertop shelves
 - Bread box
+- Fridge box
+- Pasta cutter
 ### Bathroom
 - Bar soap holder
+- Teeth cleaning station
+- Wall storage for toothbrush etc
 - Towel rod hanger for more towels etc.
 - Spare toilet paper holder
 ### Craft Room
@@ -78,9 +82,12 @@ Organized by Zone
 - Organizers for bookshelves
 - Modren electronic compatible. Paper is the new pager.
 
+
 ## Best Practices
 - Repeatability - Parts print easily on all 3D printers, and look great on high end machines.
 - Safety - Nobody gets hurt. Wall-mounted objects will standardized mounting systems. Don't shoot your eye out.
+- Sustainability - Designs use minimal material while being durable. 
+
 
 # Behind the Scenes
 This is where I sketch out ideas for the projects. Don't tell anyone.
@@ -124,7 +131,6 @@ VA01-01XL-v0.1 s456
 The name of this project is not finalized, so in this place I'll list relevant words that could be used to describe the project. Mix and Match, Categories. Choose your function and style. 
 
 homewares. organized. catalog of standard homewares. form and function. Good 3D Household Goods and Decor. essentials and accessories
-
 
 People can submit new sizes 
 Parametric via modularity
