@@ -26,6 +26,9 @@ Organized by Zone
 - Headphone stand
 - Keyboard wristpad?
 - Tool caddy
+- Tape dispenser
+- Joystick holder
+- Cable organizer 
 ### Drawer
 - Drawer bottom partitions
 - Mezzanine shelves on different sides
@@ -36,6 +39,7 @@ Organized by Zone
 - Bookends. T and L
 ### Wall
 - Picture Frames
+- Headphone hanger
 - Paper holders
 ### Closet
 - Hangers. Swivel top?
