@@ -47,14 +47,17 @@ Organized by Zone
 - Tie Organizer
 - Accessories
 - Crochet bases, like a shoe sole
+- Laundry room stuff? Detergent powder scoop
 ### Bedroom
 - Nightstand caddie/charger
+- 
 ### Kitchen
 - Fruit baskets
 - Countertop shelves
 - Bread box
 - Fridge box
 - Pasta cutter
+- Scoop
 ### Bathroom
 - Bar soap holder
 - Teeth cleaning station
@@ -132,12 +135,12 @@ VA01-01XL-v0.1 s456
 - Each
 
 ## Buzzword Bank
-The name of this project is not finalized, so in this place I'll list relevant words that could be used to describe the project. Mix and Match, Categories. Choose your function and style. 
+The name of this project is not finalized, so in this place I'll list relevant words that could be used to describe the project. Mix and Match, Categories. Choose your function and style. homewares. organized. catalog of standard homewares. form and function. Good 3D Household Goods and Decor. essentials and accessories
 
-homewares. organized. catalog of standard homewares. form and function. Good 3D Household Goods and Decor. essentials and accessories
-
+## Unsorted ideas
 People can submit new sizes 
-Parametric via modularity
+Parametric via modularity. 
+Pseodo-parametric. People don't need to customize if they don't want to; they just pick a size that works.
 Visual catalog with item numbers. 002-03 means item 2, set 3. What about variants?
 
 ## Me
