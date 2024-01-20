@@ -7,8 +7,7 @@ The original Animal Crossing game had dozens of furniture sets, eash with a bed,
 - **Vanilla**: This bare bones set acts as a template set for all the others. Might have some rounded corners, as a treat.
 - **Minimal Material**
 - **Easy to print** - Contiguous layers, if possible.
-- Print for life
-- Sample - Skeleton version for testing size. like a two layer picture frame. or the front couple layers of a drawer. Or scaffolding for a box.
+- Sample - Skeleton version for testing size. like a two layer picture frame. or the front couple layers of a drawer. Or scaffolding for a box. Not functional except for helping you visualize the object
 - Geometric - Hope you like triangles
 - Roll-top Desk
 - Art Deco
@@ -50,7 +49,6 @@ Organized by Zone
 - Laundry room stuff? Detergent powder scoop
 ### Bedroom
 - Nightstand caddie/charger
-- 
 ### Kitchen
 - Fruit baskets
 - Countertop shelves
@@ -64,6 +62,7 @@ Organized by Zone
 - Wall storage for toothbrush etc
 - Towel rod hanger for more towels etc.
 - Spare toilet paper holder
+- Show curtain hooks
 ### Craft Room
 - Crochet stuff
 ### Garage (Tool room?)
