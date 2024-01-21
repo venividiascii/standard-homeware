@@ -17,23 +17,24 @@ The original Animal Crossing game had dozens of furniture sets, eash with a bed,
 - Submit your idea as an Issue!
 
 ## Planned Inventory
-Organized by Zone 
+Organized by location. Similar items of different sizes should be combined into one item.
 ### Desk
-- [ ] Pencil cup
--[ ] Business card holder
-[ ] Charging station
-[ ] Headphone stand
+- [ ] Pencil Cup / Tool Caddy
+- [ ] Easel, from business card to paper size
+- [ ] Picture frame
+- [ ] Charging Station
+- [ ] Headphone Stand
+- [ ] Tape Dispenser (mini and wieghted)
+- [ ] Joystick Holder
+- [ ] Cable organizer
 - Keyboard wristpad?
-[ ] Tool caddy
-[ ] Tape dispenser
-[ ] Joystick holder
-[ ] Cable organizer
 ### Drawer
 - Drawer bottom partitions
 - Mezzanine shelves on different sides
 - Hanging Desk Drawer Organizer
 - Drawer wall hanger
 ### Shelf
+- [x] Vertical Paper Holder
 - Paper holders. All orientations
 - Bookends. T and L
 ### Wall
@@ -50,12 +51,13 @@ Organized by Zone
 ### Bedroom
 - Nightstand caddie/charger
 ### Kitchen
-- Fruit baskets
-- Countertop shelves
+- [ ] Fruit baskets
+- [ ] Countertop shelves
 - Bread box
 - Fridge box
 - Pasta cutter
-- Scoop
+- [ ] Scoops
+- Magnetic fridge organizers
 ### Bathroom
 - Bar soap holder
 - Teeth cleaning station
