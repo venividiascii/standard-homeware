@@ -19,15 +19,15 @@ The original Animal Crossing game had dozens of furniture sets, eash with a bed,
 ## Planned Inventory
 Organized by Zone 
 ### Desk
-[?] Pencil cup
-- Business card holder
-- Charging station
-- Headphone stand
+[ ] Pencil cup
+[ ] Business card holder
+[ ] Charging station
+[ ] Headphone stand
 - Keyboard wristpad?
-- Tool caddy
-- Tape dispenser
-- Joystick holder
-- Cable organizer 
+[ ] Tool caddy
+[ ] Tape dispenser
+[ ] Joystick holder
+[ ] Cable organizer
 ### Drawer
 - Drawer bottom partitions
 - Mezzanine shelves on different sides
