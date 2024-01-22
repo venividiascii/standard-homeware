@@ -59,8 +59,9 @@ Organized by location. Similar items of different sizes should be combined into 
 - [ ] Fruit baskets
 - [ ] Countertop shelves
 - [ ] Scoops
+- [ ] Spice Rack
 - Bread box
-- Fridge box
+- Fridge organizer box
 - Pasta cutter
 - Magnetic fridge organizers
 #### Bathroom
