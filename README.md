@@ -97,7 +97,7 @@ Organized by location. Similar items of different sizes should be combined into 
 
 
 ### Best Practices
-Add a link here.
+Add a link here.standard-homeware [is this link?](styleguide.md)
 - Repeatability - Parts print easily on all 3D printers, and look great on high end machines.
 - Safety - Nobody gets hurt. Wall-mounted objects will standardized mounting systems. Don't shoot your eye out.
 - Sustainability - Designs use minimal material while being durable. 
