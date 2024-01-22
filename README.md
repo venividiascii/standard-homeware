@@ -1,8 +1,9 @@
 # standard-homeware
 A library of functional 3D models, carefully designed for 3D printing according to our best practices. Every item is easy to print, and works as expected.
 
-## Sets
+### Sets
 ![image](https://github.com/nathangineer/standard-homeware/assets/26797863/1f46f934-0c8f-45b6-9945-6aa1b74b5051)
+
 The original Animal Crossing game had dozens of furniture sets, eash with a bed, couch, chair, dresser etc. This project is that, but for small, functional 3D printed items that you can use around the house. You can go with a basic functional versions, or you can get fancy. Here are some of the planned sets:
 - **Vanilla**: This bare bones set acts as a template set for all the others. Might have some rounded corners, as a treat.
 - **Minimal Material**
@@ -16,7 +17,7 @@ The original Animal Crossing game had dozens of furniture sets, eash with a bed,
 - See-through vs opaque sets. Even the vanilla set might have a see-thru vairant.
 - Submit your idea as an Issue!
 
-## Planned Inventory
+### Planned Inventory
 Organized by location. Similar items of different sizes should be combined into one item.
 #### Desk
 - [ ] Pencil Cup / Tool Caddy
@@ -91,32 +92,30 @@ Organized by location. Similar items of different sizes should be combined into 
 - Modren electronic compatible. Paper is the new pager.
 
 
-## Best Practices
+### Best Practices
 Add a link here.
 - Repeatability - Parts print easily on all 3D printers, and look great on high end machines.
 - Safety - Nobody gets hurt. Wall-mounted objects will standardized mounting systems. Don't shoot your eye out.
 - Sustainability - Designs use minimal material while being durable. 
 
-## Part Naming
+### Part Naming
 The name is a combination of the these attributes.
-1. Set: Flowery
+1. Design Set: Flowery
 2. Housezone: Desktop
-3. Type: Cup
+3. Type: Pencil Cup
 4. Size: S/M/L/XL, or A/B/C for variants.
 5. Version: v0.1
-6. Catalog Number: Not human readable? Or 8 character limit?
-Example: Flowery Desktop Cup, Small - v1.1 (a3E-G900)
+6. Unique Catalog Number. I'm not sure on the format, or how much of it should be human readable. A01-01XL-v0.1
+Example: Flowery Desktop Pencil Cup, Small - v1.1 (a3E-G900)
 
-## Catalog Number
-VA01-01XL-v0.1 s456
-
-## Data on printing page
+### Data on printing page
 1. Title
 2. Good photos
 3. Color Preview with color swap
-4. 
+5. 
 9. Weight
-10. Required 3D printer dimensions / compatible printers
+10. Print time
+11. Required 3D printer dimensions / compatible printers
 
 ---
 
