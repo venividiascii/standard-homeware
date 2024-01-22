@@ -109,40 +109,34 @@ The name is a combination of the these attributes.
 Example: Flowery Desktop Pencil Cup, Small - v1.1 (a3E-G900)
 
 ### Data on printing page
-1. Title
-1. Good photos
-1. Color Preview with color swap
-1. 
-1. Weight
-1. Print time
-1. Required 3D printer dimensions / compatible printers
+- Title
+- Good photos
+- Color Preview with color swap
+- Weight
+- Print time
+- Required 3D printer dimensions / compatible printers 
+- Description
+- Print settings suggestions (different densities)
+- Safety advisory
 
 ---
 
 # Behind the Scenes
 This is where I sketch out ideas for the projects. Don't tell anyone.
 
-
-
-
-
 ## Idea Scratchpad (until this is mature enough for feature requests)
-- You can mix and match items from different sets, such as a drawer from one set can go in the organizer from another.
+- Can you mix and match items from different sets, such as a drawer from one set can go in the organizer from another.
 - Needs to be a comment system. Send github feature requests in some cases.
-- Every object has a version for smaller printers
-- What sort of setup making something easily mountable. I need a list of options, trying to find one that's balanced, given the weight limitations. Are there government safety standards for wall hanging?
-- Objects include a logo or brand stamp in an unobtrusive location
-- Printing suggestions for each part
-- Each
+- Objects include a logo or brand stamp on the bottom?
+- Parametric via modularity. 
+- Pseodo-parametric. People don't need to customize if they don't want to; they just pick a size that works.
+- Visual catalog. The big style grid with parts on one axis and sets on the other.
 
 ## Buzzword Bank
 The name of this project is not finalized, so in this place I'll list relevant words that could be used to describe the project. Mix and Match, Categories. Choose your function and style. homewares. organized. catalog of standard homewares. form and function. Good 3D Household Goods and Decor. essentials and accessories, Free Things, Buy My Stuff
 
 ## Unsorted ideas
-People can submit new sizes 
-Parametric via modularity. 
-Pseodo-parametric. People don't need to customize if they don't want to; they just pick a size that works.
-Visual catalog with item numbers. 002-03 means item 2, set 3. What about variants?
+
 
 ## Me
 I've been using CAD software for 20 years, and I've spend the last five years 3D printing as my full time job. So I'm alright at it.
