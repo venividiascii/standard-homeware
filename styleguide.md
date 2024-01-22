@@ -3,7 +3,7 @@ The goal of this project is to create a catalog with /consistency/. Everything c
 
 This style guide is a draft of a plan to make a style guide. Maybe I'll start with some axioms, because those look cool, but the rest will not look so cool for now.
 
-##Outline
+## Outline
 Sets have consistent styles
 Parts have consistent function across styles 
 Parts can have part specific best practices
