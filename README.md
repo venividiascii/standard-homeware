@@ -40,10 +40,10 @@ Organized by location. Similar items of different sizes should be combined into 
 - Drawer wall hanger
 #### Shelf
 - [x] Vertical Paper Holder
+- [ ] Bookends
 - Paper holders. All orientations
-- Bookends. T and L
 #### Wall
-- Picture Frames
+- [ ] Picture Frames
 - Headphone hanger
 - Paper holders
 #### Closet
@@ -62,7 +62,6 @@ Organized by location. Similar items of different sizes should be combined into 
 - Bread box
 - Fridge box
 - Pasta cutter
-
 - Magnetic fridge organizers
 #### Bathroom
 - Bar soap holder
@@ -102,6 +101,7 @@ Add a link here.
 - Repeatability - Parts print easily on all 3D printers, and look great on high end machines.
 - Safety - Nobody gets hurt. Wall-mounted objects will standardized mounting systems. Don't shoot your eye out.
 - Sustainability - Designs use minimal material while being durable. 
+
 
 ### Part Naming
 The name is a combination of the these attributes.
