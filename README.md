@@ -59,7 +59,7 @@ Organized by location. Similar items of different sizes should be combined into 
 - [ ] Fruit baskets
 - [ ] Countertop shelves
 - [ ] Scoops
-- [ ] Spice Rack
+- [ ] Spice Racks
 - Bread box
 - Fridge organizer box
 - Pasta cutter
@@ -130,21 +130,19 @@ Example: Flowery Desktop Pencil Cup, Small - v1.1 (a3E-G900)
 # Behind the Scenes
 This is where I sketch out ideas for the projects. Don't tell anyone.
 
-## Idea Scratchpad (until this is mature enough for feature requests)
+### Idea Scratchpad (until this is mature enough for feature requests)
 - Can you mix and match items from different sets, such as a drawer from one set can go in the organizer from another.
 - Needs to be a comment system. Send github feature requests in some cases.
 - Objects include a logo or brand stamp on the bottom?
-- Parametric via modularity. 
+- Parametric via modularity. Puzzle Pieces
 - Pseodo-parametric. People don't need to customize if they don't want to; they just pick a size that works.
 - Visual catalog. The big style grid with parts on one axis and sets on the other.
 
-## Buzzword Bank
+### Buzzword Bank
 The name of this project is not finalized, so in this place I'll list relevant words that could be used to describe the project. Mix and Match, Categories. Choose your function and style. homewares. organized. catalog of standard homewares. form and function. Good 3D Household Goods and Decor. essentials and accessories, Free Things, Buy My Stuff
 
-## Unsorted ideas
-
-
-## Me
-I've been using CAD software for 20 years, and I've spend the last five years 3D printing as my full time job. So I'm alright at it.
-
-This site was not built using [GitHub Pages](https://pages.github.com/)
+### About the Project
+All models in this project are proudly made with free and open source software:
+- FreeCAD for parametric dimensioned designs
+- Blender for freeform designs
+Anyone is welcome to contribute. We also (will) have a discord server: (here)
