@@ -18,7 +18,7 @@ The original Animal Crossing game had dozens of furniture sets, eash with a bed,
 
 ## Planned Inventory
 Organized by location. Similar items of different sizes should be combined into one item.
-### Desk
+#### Desk
 - [ ] Pencil Cup / Tool Caddy
 - [ ] Easel, from business card to paper size
 - [ ] Picture frame
@@ -28,29 +28,29 @@ Organized by location. Similar items of different sizes should be combined into 
 - [ ] Joystick Holder
 - [ ] Cable organizer
 - Keyboard wristpad?
-### Drawer
+#### Drawer
 - Drawer bottom partitions
 - Mezzanine shelves on different sides
 - Hanging Desk Drawer Organizer
 - Drawer wall hanger
-### Shelf
+#### Shelf
 - [x] Vertical Paper Holder
 - Paper holders. All orientations
 - Bookends. T and L
-### Wall
+#### Wall
 - Picture Frames
 - Headphone hanger
 - Paper holders
-### Closet
+#### Closet
 - Hangers. Swivel top?
 - Modular hanger for shoes etc. Make it longer
 - Tie Organizer
 - Accessories
 - Crochet bases, like a shoe sole
 - Laundry room stuff? Detergent powder scoop
-### Bedroom
+#### Bedroom
 - Nightstand caddie/charger
-### Kitchen
+#### Kitchen
 - [ ] Fruit baskets
 - [ ] Countertop shelves
 - Bread box
@@ -58,28 +58,28 @@ Organized by location. Similar items of different sizes should be combined into 
 - Pasta cutter
 - [ ] Scoops
 - Magnetic fridge organizers
-### Bathroom
+#### Bathroom
 - Bar soap holder
 - Teeth cleaning station
 - Wall storage for toothbrush etc
 - Towel rod hanger for more towels etc.
 - Spare toilet paper holder
 - Show curtain hooks
-### Craft Room
+#### Craft Room
 - Crochet stuff
-### Garage (Tool room?)
+#### Garage (Tool room?)
 - Tool organizers
-### Yard
+#### Yard
 - Actual gardening tools
 - Camping?
 - Mailbox thing
-### Toy Room
+#### Toy Room
 - Classic public domain toys
 - Board Games
-### Gym (Health)
+#### Gym (Health)
 - Exercise visualizer
 - Yoga mat hanger
-### General Living Space
+#### General Living Space
 - Planters
 - Refillable tissue boxes
 - Mail sorter with pencil cups.
