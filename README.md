@@ -92,17 +92,10 @@ Organized by location. Similar items of different sizes should be combined into 
 
 
 ## Best Practices
+Add a link here.
 - Repeatability - Parts print easily on all 3D printers, and look great on high end machines.
 - Safety - Nobody gets hurt. Wall-mounted objects will standardized mounting systems. Don't shoot your eye out.
 - Sustainability - Designs use minimal material while being durable. 
-
-
-# Behind the Scenes
-This is where I sketch out ideas for the projects. Don't tell anyone.
-
-## What do we call the project?
-Free Things
-Buy My Stuff
 
 ## Part Naming
 The name is a combination of the these attributes.
@@ -115,8 +108,8 @@ The name is a combination of the these attributes.
 Example: Flowery Desktop Cup, Small - v1.1 (a3E-G900)
 
 ## Catalog Number
-
 VA01-01XL-v0.1 s456
+
 ## Data on printing page
 1. Title
 2. Good photos
@@ -124,6 +117,14 @@ VA01-01XL-v0.1 s456
 4. 
 9. Weight
 10. Required 3D printer dimensions / compatible printers
+
+---
+
+# Behind the Scenes
+This is where I sketch out ideas for the projects. Don't tell anyone.
+
+
+
 
 
 ## Idea Scratchpad (until this is mature enough for feature requests)
@@ -136,7 +137,7 @@ VA01-01XL-v0.1 s456
 - Each
 
 ## Buzzword Bank
-The name of this project is not finalized, so in this place I'll list relevant words that could be used to describe the project. Mix and Match, Categories. Choose your function and style. homewares. organized. catalog of standard homewares. form and function. Good 3D Household Goods and Decor. essentials and accessories
+The name of this project is not finalized, so in this place I'll list relevant words that could be used to describe the project. Mix and Match, Categories. Choose your function and style. homewares. organized. catalog of standard homewares. form and function. Good 3D Household Goods and Decor. essentials and accessories, Free Things, Buy My Stuff
 
 ## Unsorted ideas
 People can submit new sizes 
