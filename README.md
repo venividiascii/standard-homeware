@@ -110,12 +110,12 @@ Example: Flowery Desktop Pencil Cup, Small - v1.1 (a3E-G900)
 
 ### Data on printing page
 1. Title
-2. Good photos
-3. Color Preview with color swap
-5. 
-9. Weight
-10. Print time
-11. Required 3D printer dimensions / compatible printers
+1. Good photos
+1. Color Preview with color swap
+1. 
+1. Weight
+1. Print time
+1. Required 3D printer dimensions / compatible printers
 
 ---
 
