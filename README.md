@@ -70,7 +70,7 @@ Organized by location. Similar items of different sizes should be combined into 
 - Wall storage for toothbrush etc
 - Towel rod hanger for more towels etc.
 - Spare toilet paper holder
-- Show curtain hooks
+- [ ] Show curtain hooks
 #### Craft Room
 - Crochet stuff
 #### Garage (Tool room?)
@@ -79,12 +79,12 @@ Organized by location. Similar items of different sizes should be combined into 
 - Actual gardening tools
 - Camping?
 - Mailbox thing
-#### Toy Room
+#### Toys?
 - Classic public domain toys
 - Board Games
 #### Gym (Health)
-- Exercise visualizer
-- Yoga mat hanger
+- Exercise goal visualizer
+- [ ] Yoga mat hanger
 #### General Living Space
 - Planters
 - Refillable tissue boxes
