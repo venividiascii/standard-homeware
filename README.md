@@ -18,9 +18,9 @@ The original Animal Crossing game had dozens of furniture sets, eash with a bed,
 ### Planned Inventory
 Organized by location. Similar items of different sizes should be combined into one item.
 #### Key
+- Vague idea
 - [ ] Planned
-- [x] Started
-- Vague idea 
+- [x] Started 
 #### Desk
 - [ ] Pencil Cup / Tool Caddy
 - [ ] Easel, from business card to paper size
