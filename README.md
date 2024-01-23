@@ -1,103 +1,99 @@
 # standard-homeware
-A library of functional 3D models, carefully designed for 3D printing according to our best practices. Every item is easy to print, and works as expected.
+A library of functional 3D models, carefully designed for 3D printing according to [our best practices](styleguide.md). Every item is easy to print, and works as expected.
 
+### Best Practices
+- Repeatability - Parts print easily on all 3D printers, and look great on high end machines.
+- Safety - Nobody gets hurt. Wall-mounted objects will standardized mounting systems. Don't shoot your eye out.
+- Sustainability - Designs use minimal material while being durable.
+- 
 ### Sets
 ![image](https://github.com/nathangineer/standard-homeware/assets/26797863/1f46f934-0c8f-45b6-9945-6aa1b74b5051)
 
-The original Animal Crossing game had dozens of furniture sets, eash with a bed, couch, chair, dresser etc. This project is that, but for small, functional 3D printed items that you can use around the house. You can go with a basic functional versions, or you can get fancy. Here are some of the planned sets:
-- **Vanilla**: This bare bones set acts as a template set for all the others. Might have some rounded corners, as a treat.
-- **Sample** - Skeleton version for testing size. like a two layer picture frame. or the front couple layers of a drawer. Or scaffolding for a box. Not functional except for helping you visualize the object
-- Geometric - Hope you like triangles
-- Roll-top Desk
-- Art Deco
-- 60s
-- Forest
-- See-through vs opaque sets. Even the vanilla set might have a see-thru vairant.
-- Submit your idea as an Issue!
+The original Animal Crossing game had dozens of furniture sets, eash with a bed, couch, chair, dresser etc. This project is that, but for small, functional 3D printed items that you can use around the house. At first, the sets will be pretty basic, mostly consisting of the Vanilla set with cool or cute patterns. Later, I'd like sets that combine CAD modeling and Sculpting. Here are some of the planned sets:
+- **Vanilla**: The template set for the other sets
+- **Honeybee**: Hexagons up in this hive
+- **Geometric**: Hope you like kaleidoscopes
+- **Woodcraft**: For that handmade look. Wood filament optional.
+- **Art Deco**: Matches your grammaphone
+- Submit your ideas!
 
 ### Planned Inventory
-Organized by location. Similar items of different sizes should be combined into one item.
+Organized by Location. Similar Items of Different Sizes Should Be Combined into One Item.
 #### Key
-- Vague idea
+- Vague Idea
 - [ ] Planned
-- [x] Started 
+- [X] Started 
 #### Desk
 - [ ] Pencil Cup / Tool Caddy
-- [ ] Easel, from business card to paper size
-- [ ] Picture frame
+- [ ] Easel, from Business Card to Paper Size
+- [ ] Picture Frame
 - [ ] Charging Station
 - [ ] Headphone Stand
-- [ ] Tape Dispenser (mini and wieghted)
+- [ ] Tape Dispenser (Mini and Wieghted)
 - [ ] Joystick Holder
-- [ ] Cable organizer
-- Keyboard wristpad?
+- [ ] Cable Organizer
+- Keyboard Wristpad?
 #### Drawer
-- Drawer bottom partitions
-- Mezzanine shelves on different sides
+- Drawer Bottom Partitions
+- Mezzanine Shelves on Different Sides
 - Hanging Desk Drawer Organizer
-- Drawer wall hanger
+- Drawer Wall Hanger
 #### Shelf
-- [x] Vertical Paper Holder
+- [X] Vertical Paper Holder
 - [ ] Bookends
-- Paper holders. All orientations
+- Paper Holders. All Orientations
 #### Wall
 - [ ] Picture Frames
-- Headphone hanger
-- Paper holders
+- Headphone Hanger
+- Paper Holders
 #### Closet
-- Hangers. Swivel top?
-- Modular hanger for shoes etc. Make it longer
+- Hangers. Swivel Top?
+- Modular Hanger for Shoes Etc. Make It Longer
 - Tie Organizer
 - Accessories
-- Crochet bases, like a shoe sole
-- Laundry room stuff? Detergent powder scoop
+- Crochet Bases, like a Shoe Sole
+- Laundry Room Stuff? Detergent Powder Scoop
 #### Bedroom
-- Nightstand caddie/charger
+- Nightstand Caddie/Charger
 #### Kitchen
-- [ ] Fruit baskets
-- [ ] Countertop shelves
+- [ ] Fruit Baskets
+- [ ] Countertop Shelves
 - [ ] Scoops
 - [ ] Spice Racks
-- Bread box
-- Fridge organizer box
-- Pasta cutter
-- Magnetic fridge organizers
+- Bread Box
+- Fridge Organizer Box
+- Pasta Cutter
+- Magnetic Fridge Organizers
 #### Bathroom
-- Bar soap holder
-- Teeth cleaning station
-- Wall storage for toothbrush etc
-- Towel rod hanger for more towels etc.
-- Spare toilet paper holder
-- [ ] Show curtain hooks
+- Bar Soap Holder
+- Teeth Cleaning Station
+- Wall Storage for Toothbrush Etc
+- Towel Rod Hanger for More Towels Etc.
+- Spare Toilet Paper Holder
+- [ ] Show Curtain Hooks
 #### Craft Room
-- Crochet stuff
-#### Garage (Tool room?)
-- Tool organizers
+- Crochet Stuff
+#### Garage (Tool Room?)
+- Tool Organizers
 #### Yard
-- Actual gardening tools
+- Actual Gardening Tools
 - Camping?
-- Mailbox thing
+- Mailbox Thing
 #### Toys?
-- Classic public domain toys
+- Classic Public Domain Toys
 - Board Games
 #### Gym (Health)
-- Exercise goal visualizer
-- [ ] Yoga mat hanger
+- Exercise Goal Visualizer
+- [ ] Yoga Mat Hanger
 #### Anywhere
 - Planters
 - [ ] Outlet Cover
-- Refillable tissue boxes
+- Refillable Tissue Boxes
 - Mail Station
-- [ ] Key rack
+- [ ] Key Rack
 - Doilies
-- Tabletop organizers and drawers
+- Tabletop Organizers and Drawers
 
-
-### Best Practices
-Add a link here.standard-homeware [is this link?](styleguide.md)
-- Repeatability - Parts print easily on all 3D printers, and look great on high end machines.
-- Safety - Nobody gets hurt. Wall-mounted objects will standardized mounting systems. Don't shoot your eye out.
-- Sustainability - Designs use minimal material while being durable. 
 
 
 ### Part Naming
