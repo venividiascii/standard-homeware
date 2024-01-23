@@ -6,9 +6,7 @@ A library of functional 3D models, carefully designed for 3D printing according 
 
 The original Animal Crossing game had dozens of furniture sets, eash with a bed, couch, chair, dresser etc. This project is that, but for small, functional 3D printed items that you can use around the house. You can go with a basic functional versions, or you can get fancy. Here are some of the planned sets:
 - **Vanilla**: This bare bones set acts as a template set for all the others. Might have some rounded corners, as a treat.
-- **Minimal Material**
-- **Easy to print** - Contiguous layers, if possible.
-- Sample - Skeleton version for testing size. like a two layer picture frame. or the front couple layers of a drawer. Or scaffolding for a box. Not functional except for helping you visualize the object
+- **Sample** - Skeleton version for testing size. like a two layer picture frame. or the front couple layers of a drawer. Or scaffolding for a box. Not functional except for helping you visualize the object
 - Geometric - Hope you like triangles
 - Roll-top Desk
 - Art Deco
