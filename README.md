@@ -83,16 +83,14 @@ Organized by location. Similar items of different sizes should be combined into 
 #### Gym (Health)
 - Exercise goal visualizer
 - [ ] Yoga mat hanger
-#### General Living Space
+#### Anywhere
 - Planters
+- [ ] Outlet Cover
 - Refillable tissue boxes
-- Mail sorter with pencil cups.
-- Key rack
+- Mail Station
+- [ ] Key rack
 - Doilies
 - Tabletop organizers and drawers
-- Rolltop desk drawers, but lots of styles. Modern
-- Organizers for bookshelves
-- Modren electronic compatible. Paper is the new pager.
 
 
 ### Best Practices
