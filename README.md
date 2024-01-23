@@ -145,4 +145,5 @@ The name of this project is not finalized, so in this place I'll list relevant w
 All models in this project are proudly made with free and open source software:
 - FreeCAD for parametric dimensioned designs
 - Blender for freeform designs
+- SculptGL, SkulptFab, and other open source tools
 Anyone is welcome to contribute. We also (will) have a discord server: (here)
