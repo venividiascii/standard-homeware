@@ -1,11 +1,6 @@
 # standard-homeware
 A library of functional 3D models, carefully designed for 3D printing according to [our best practices](styleguide.md). Every item is easy to print, and works as expected.
 
-### Best Practices
-- Repeatability - Parts print easily on all 3D printers, and look great on high end machines.
-- Safety - Nobody gets hurt. Wall-mounted objects will standardized mounting systems. Don't shoot your eye out.
-- Sustainability - Designs use minimal material while being durable.
-- 
 ### Sets
 ![image](https://github.com/nathangineer/standard-homeware/assets/26797863/1f46f934-0c8f-45b6-9945-6aa1b74b5051)
 
@@ -24,7 +19,7 @@ Organized by Location. Similar Items of Different Sizes Should Be Combined into 
 - [ ] Planned
 - [X] Started 
 #### Desk
-- [ ] Pencil Cup / Tool Caddy
+- [x] Pencil Cup / Tool Caddy
 - [ ] Easel, from Business Card to Paper Size
 - [ ] Picture Frame
 - [ ] Charging Station
@@ -40,7 +35,7 @@ Organized by Location. Similar Items of Different Sizes Should Be Combined into 
 - Drawer Wall Hanger
 #### Shelf
 - [X] Vertical Paper Holder
-- [ ] Bookends
+- [x] Bookends
 - Paper Holders. All Orientations
 #### Wall
 - [ ] Picture Frames
@@ -53,8 +48,6 @@ Organized by Location. Similar Items of Different Sizes Should Be Combined into 
 - Accessories
 - Crochet Bases, like a Shoe Sole
 - Laundry Room Stuff? Detergent Powder Scoop
-#### Bedroom
-- Nightstand Caddie/Charger
 #### Kitchen
 - [ ] Fruit Baskets
 - [ ] Countertop Shelves
@@ -65,12 +58,14 @@ Organized by Location. Similar Items of Different Sizes Should Be Combined into 
 - Pasta Cutter
 - Magnetic Fridge Organizers
 #### Bathroom
+- [ ] Shower Curtain Hooks
 - Bar Soap Holder
 - Teeth Cleaning Station
 - Wall Storage for Toothbrush Etc
 - Towel Rod Hanger for More Towels Etc.
 - Spare Toilet Paper Holder
-- [ ] Show Curtain Hooks
+#### Bedroom
+- Nightstand Caddie/Charger
 #### Craft Room
 - Crochet Stuff
 #### Garage (Tool Room?)
@@ -79,23 +74,26 @@ Organized by Location. Similar Items of Different Sizes Should Be Combined into 
 - Actual Gardening Tools
 - Camping?
 - Mailbox Thing
-#### Toys?
+#### Toys
 - Classic Public Domain Toys
 - Board Games
 #### Gym (Health)
-- Exercise Goal Visualizer
 - [ ] Yoga Mat Hanger
+- Exercise Goal Visualizer
 #### Anywhere
-- Planters
 - [ ] Outlet Cover
-- Refillable Tissue Boxes
-- Mail Station
 - [ ] Key Rack
-- Doilies
-- Tabletop Organizers and Drawers
+- [ ] Mail Station
+- Planters
+- Refillable Tissue Boxes
+- Doilies (sue me)
 
 
-
+### Best Practices
+- Repeatability: Parts print easily on all 3D printers, and look great on high end machines.
+- Safety: Nobody gets hurt. Wall-mounted objects will standardized mounting systems. Don't shoot your eye out.
+- Sustainability: Designs use minimal material while being durable.
+  
 ### Part Naming
 The name is a combination of the these attributes.
 1. Design Set: Flowery
