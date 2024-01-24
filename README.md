@@ -136,8 +136,9 @@ This is where I sketch out ideas for the projects. Don't tell anyone.
 The name of this project is not finalized, so in this place I'll list relevant words that could be used to describe the project. Mix and Match, Categories. Choose your function and style. homewares. organized. catalog of standard homewares. form and function. Good 3D Household Goods and Decor. essentials and accessories, Free Things, Buy My Stuff
 
 ### About the Project
-All models in this project are proudly made with free and open source software:
+All models in this project are made with free and open source software:
 - FreeCAD for parametric dimensioned designs
 - Blender for freeform designs
+- Inkscape for 2D vector drawings
 - SculptGL, SkulptFab, and other open source tools
 Anyone is welcome to contribute. We also (will) have a discord server: (here)
