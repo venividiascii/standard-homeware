@@ -137,8 +137,9 @@ The name of this project is not finalized, so in this place I'll list relevant w
 
 ### About the Project
 All models in this project are made with free and open source software:
-- FreeCAD for parametric dimensioned designs
-- Blender for freeform designs
-- Inkscape for 2D vector drawings
-- SculptGL, SkulptFab, and other open source tools
+- **FreeCAD** for parametric dimensioned designs
+- **Blender** for freeform designs
+- **Inkscape** for 2D vector drawings
+- **OpenSCAD** for making parts with math
+- **SculptGL**, SkulptFab, and other open source tools
 Anyone is welcome to contribute. We also (will) have a discord server: (here)
