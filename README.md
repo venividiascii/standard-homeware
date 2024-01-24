@@ -53,6 +53,8 @@ Organized by Location. Similar Items of Different Sizes Should Be Combined into 
 - [ ] Countertop Shelves
 - [ ] Scoops
 - [ ] Spice Racks
+- [ ] Paper Towel Holder
+- [ ] Cookie Jar
 - Bread Box
 - Fridge Organizer Box
 - Pasta Cutter
@@ -87,6 +89,8 @@ Organized by Location. Similar Items of Different Sizes Should Be Combined into 
 - Planters
 - Refillable Tissue Boxes
 - Doilies (sue me)
+#### Pets
+- Treat jar
 
 
 ### Best Practices
