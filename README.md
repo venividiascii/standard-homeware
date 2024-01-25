@@ -56,9 +56,10 @@ Organized by Location. Similar Items of Different Sizes Should Be Combined into 
 - [ ] Paper Towel Holder
 - [ ] Cookie Jar
 - [ ] Bag Clips
+- [ ] Dough Roller
 - Bread Box
 - Fridge Organizer Box
-- Pasta Cutter
+- Pasta Cutter (Zigzag?)
 - Magnetic Fridge Organizers
 #### Bathroom
 - [ ] Shower Curtain Hooks
