@@ -55,6 +55,7 @@ Organized by Location. Similar Items of Different Sizes Should Be Combined into 
 - [ ] Spice Racks
 - [ ] Paper Towel Holder
 - [ ] Cookie Jar
+- [ ] Bag Clips
 - Bread Box
 - Fridge Organizer Box
 - Pasta Cutter
