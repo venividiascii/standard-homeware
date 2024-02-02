@@ -35,3 +35,11 @@ Example: Flowery Desktop Pencil Cup, Small - v1.1 (a3E-G900)
 - Description
 - Print settings suggestions (different densities)
 - Safety advisory
+
+Approved Vitamins:
+Food-safe coating
+Fasteners
+Command Strip / Hanging stuff
+Magnets
+Weights
+Clock kit
