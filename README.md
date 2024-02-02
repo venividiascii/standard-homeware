@@ -14,6 +14,10 @@ The original Animal Crossing game had dozens of furniture sets, eash with a bed,
 
 ### Planned Inventory
 Organized by Location. Similar Items of Different Sizes Should Be Combined into One Item.
+
+<details>
+  <summary>Click me</summary>
+
 #### Key
 - Vague Idea
 - [ ] Planned
@@ -93,7 +97,7 @@ Organized by Location. Similar Items of Different Sizes Should Be Combined into 
 - Doilies (sue me)
 #### Pets
 - Treat jar
-
+</details>
 
 ### Best Practices
 - Repeatability: Parts print easily on all 3D printers, and look great on high end machines.
