@@ -9,7 +9,6 @@ Parts have consistent function across styles
 Parts can have part specific best practices
 Styles have style specific best practices
 Zones can have zone specific best practices? Is this making it too complicated? Why would zone specific categories be needed? They're just an attribute for sorting
-The big table. Axis for set and part.
 
 ### Best Practices
 - Repeatability: Parts print easily on all 3D printers, and look great on high end machines.
