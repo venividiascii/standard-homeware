@@ -138,9 +138,6 @@ This is where I sketch out ideas for the projects. Don't tell anyone.
 - Pseodo-parametric. People don't need to customize if they don't want to; they just pick a size that works.
 - Visual catalog. The big style grid with parts on one axis and sets on the other.
 
-### Buzzword Bank
-The name of this project is not finalized, so in this place I'll list relevant words that could be used to describe the project. Mix and Match, Categories. Choose your function and style. homewares. organized. catalog of standard homewares. form and function. Good 3D Household Goods and Decor. essentials and accessories, Free Things, Buy My Stuff
-
 ### About the Project
 All models in this project are made with free and open source software:
 - **FreeCAD** for parametric dimensioned designs
