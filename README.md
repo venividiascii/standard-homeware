@@ -16,7 +16,7 @@ The original Animal Crossing game had dozens of furniture sets, eash with a bed,
 Organized by Location. Similar Items of Different Sizes Should Be Combined into One Item.
 
 <details>
-  <summary>Click me</summary>
+  <summary>Click to expand</summary>
 
 #### Key
 - Vague Idea
