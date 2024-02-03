@@ -14,6 +14,10 @@ The original Animal Crossing game had dozens of furniture sets, eash with a bed,
 
 ### Planned Inventory
 Organized by Location. Similar Items of Different Sizes Should Be Combined into One Item.
+
+<details>
+  <summary>Click me</summary>
+
 #### Key
 - Vague Idea
 - [ ] Planned
@@ -93,33 +97,9 @@ Organized by Location. Similar Items of Different Sizes Should Be Combined into 
 - Doilies (sue me)
 #### Pets
 - Treat jar
+</details>
 
 
-### Best Practices
-- Repeatability: Parts print easily on all 3D printers, and look great on high end machines.
-- Safety: Nobody gets hurt. Wall-mounted objects will standardized mounting systems. Don't shoot your eye out.
-- Sustainability: Designs use minimal material while being durable.
-  
-### Part Naming
-The name is a combination of the these attributes.
-1. Design Set: Flowery
-2. Housezone: Desktop
-3. Type: Pencil Cup
-4. Size: S/M/L/XL, or A/B/C for variants.
-5. Version: v0.1
-6. Unique Catalog Number. I'm not sure on the format, or how much of it should be human readable. A01-01XL-v0.1
-Example: Flowery Desktop Pencil Cup, Small - v1.1 (a3E-G900)
-
-### Data on printing page
-- Title
-- Good photos
-- Color Preview with color swap
-- Weight
-- Print time
-- Required 3D printer dimensions / compatible printers 
-- Description
-- Print settings suggestions (different densities)
-- Safety advisory
 
 ---
 
@@ -133,9 +113,6 @@ This is where I sketch out ideas for the projects. Don't tell anyone.
 - Parametric via modularity. Puzzle Pieces
 - Pseodo-parametric. People don't need to customize if they don't want to; they just pick a size that works.
 - Visual catalog. The big style grid with parts on one axis and sets on the other.
-
-### Buzzword Bank
-The name of this project is not finalized, so in this place I'll list relevant words that could be used to describe the project. Mix and Match, Categories. Choose your function and style. homewares. organized. catalog of standard homewares. form and function. Good 3D Household Goods and Decor. essentials and accessories, Free Things, Buy My Stuff
 
 ### About the Project
 All models in this project are made with free and open source software:
