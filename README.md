@@ -13,17 +13,26 @@ The original Animal Crossing game had dozens of furniture sets, eash with a bed,
 - Submit your ideas!
 
 ### Planned Inventory
-Organized by Location. Similar Items of Different Sizes Should Be Combined into One Item. Key: ○ Vague Idea, ◔ Specific Plan (0.0), ◑ Rough Model, ◕ Release Candidate, ◉ Complete (v1.0+) 
-- Desk
-  - [x] Pencil Cup / Tool Caddy
-  - [ ] Easel, from Business Card to Paper Size
-  - [ ] Picture Frame
-  - [ ] Charging Station
-  - [ ] Headphone Stand
-  - [ ] Tape Dispenser (Mini and Wieghted)
-  - [ ] Joystick Holder
-  - [ ] Cable Organizer
-  - Keyboard Wristpad?
+Organized by Location. Similar Items of Different Sizes Should Be Combined into One Item. 
+```
+**Key:**  
+❔ Vague Idea  
+○ Specific Idea  
+◔ Rough Model  
+◑ Functional Model  
+◕ Release Candidate  
+⬤ Design Complete (v1.0+)   
+Desk  
+  ◔ Pencil Cup / Tool Caddy
+  - ○ Easel, from Business Card to Paper Size
+  - ○ Picture Frame
+  - ○ Charging Station
+  - ○ Headphone Stand
+  - ○ Tape Dispenser (Mini and Wieghted)
+  - ○ Joystick Holder
+  - ○ Cable Organizer
+  - ? Keyboard Wristpad?
+```
 - Drawer
   - Drawer Bottom Partitions
   - Mezzanine Shelves on Different Sides
