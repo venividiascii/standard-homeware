@@ -13,15 +13,7 @@ The original Animal Crossing game had dozens of furniture sets, eash with a bed,
 - Submit your ideas!
 
 ### Planned Inventory
-Organized by Location. Similar Items of Different Sizes Should Be Combined into One Item.
-
-<details>
-  <summary>Click to expand</summary>
-
-#### Key
-  - ❓ Vague Idea
-  - [ ] ☐ Planned
-  - [X] ☑ Started 
+Organized by Location. Similar Items of Different Sizes Should Be Combined into One Item. Key: ○ Vague Idea, ◔ Specific Plan (0.0), ◑ Rough Model, ◕ Release Candidate, ◉ Complete (v1.0+) 
 - Desk
   - [x] Pencil Cup / Tool Caddy
   - [ ] Easel, from Business Card to Paper Size
@@ -52,7 +44,7 @@ Organized by Location. Similar Items of Different Sizes Should Be Combined into 
   - Accessories
   - Crochet Bases, like a Shoe Sole
   - Laundry Room Stuff? Detergent Powder Scoop
-- Kitchen
+- Kitchen (With food-safe material and/or coating)
   - [ ] Fruit Baskets
   - [ ] Countertop Shelves
   - [ ] Scoops
@@ -61,6 +53,7 @@ Organized by Location. Similar Items of Different Sizes Should Be Combined into 
   - [ ] Cookie Jar
   - [ ] Bag Clips
   - [ ] Dough Roller
+  - [ ] Cookie Cutter
   - Bread Box
   - Fridge Organizer Box
   - Pasta Cutter (Zigzag?)
