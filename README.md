@@ -19,84 +19,85 @@ Organized by Location. Similar Items of Different Sizes Should Be Combined into 
   <summary>Click to expand</summary>
 
 #### Key
-- Vague Idea
-- [ ] Planned
-- [X] Started 
-#### Desk
-- [x] Pencil Cup / Tool Caddy
-- [ ] Easel, from Business Card to Paper Size
-- [ ] Picture Frame
-- [ ] Charging Station
-- [ ] Headphone Stand
-- [ ] Tape Dispenser (Mini and Wieghted)
-- [ ] Joystick Holder
-- [ ] Cable Organizer
-- Keyboard Wristpad?
-#### Drawer
-- Drawer Bottom Partitions
-- Mezzanine Shelves on Different Sides
-- Hanging Desk Drawer Organizer
-- Drawer Wall Hanger
-#### Shelf
-- [X] Vertical Paper Holder
-- [x] Bookends
-- Paper Holders. All Orientations
-#### Wall
-- [ ] Picture Frames
-- Headphone Hanger
-- Paper Holders
-#### Closet
-- Hangers. Swivel Top?
-- Modular Hanger for Shoes Etc. Make It Longer
-- Tie Organizer
-- Accessories
-- Crochet Bases, like a Shoe Sole
-- Laundry Room Stuff? Detergent Powder Scoop
-#### Kitchen
-- [ ] Fruit Baskets
-- [ ] Countertop Shelves
-- [ ] Scoops
-- [ ] Spice Racks
-- [ ] Paper Towel Holder
-- [ ] Cookie Jar
-- [ ] Bag Clips
-- [ ] Dough Roller
-- Bread Box
-- Fridge Organizer Box
-- Pasta Cutter (Zigzag?)
-- Magnetic Fridge Organizers
-#### Bathroom
-- [ ] Shower Curtain Hooks
-- Bar Soap Holder
-- Teeth Cleaning Station
-- Wall Storage for Toothbrush Etc
-- Towel Rod Hanger for More Towels Etc.
-- Spare Toilet Paper Holder
-#### Bedroom
-- Nightstand Caddie/Charger
-#### Craft Room
-- Crochet Stuff
-#### Garage (Tool Room?)
-- Tool Organizers
-#### Yard
-- Actual Gardening Tools
-- Camping?
-- Mailbox Thing
-#### Toys
-- Classic Public Domain Toys
-- Board Games
-#### Gym (Health)
-- [ ] Yoga Mat Hanger
-- Exercise Goal Visualizer
-#### Anywhere
-- [ ] Outlet Cover
-- [ ] Key Rack
-- [ ] Mail Station
-- Planters
-- Refillable Tissue Boxes
-- Doilies (sue me)
-#### Pets
-- Treat jar
+  - ❓ Vague Idea
+  - [ ] ☐ Planned
+  - [X] ☑ Started 
+- Desk
+  - [x] Pencil Cup / Tool Caddy
+  - [ ] Easel, from Business Card to Paper Size
+  - [ ] Picture Frame
+  - [ ] Charging Station
+  - [ ] Headphone Stand
+  - [ ] Tape Dispenser (Mini and Wieghted)
+  - [ ] Joystick Holder
+  - [ ] Cable Organizer
+  - Keyboard Wristpad?
+- Drawer
+  - Drawer Bottom Partitions
+  - Mezzanine Shelves on Different Sides
+  - Hanging Desk Drawer Organizer
+  - Drawer Wall Hanger
+- Shelf
+  - [X] Vertical Paper Holder
+  - [x] Bookends
+  - Paper Holders. All Orientations
+- Wall
+  - [ ] Picture Frames
+  - Headphone Hanger
+  - Paper Holders
+- Closet
+  - Hangers. Swivel Top?
+  - Modular Hanger for Shoes Etc. Make It Longer
+  - Tie Organizer
+  - Accessories
+  - Crochet Bases, like a Shoe Sole
+  - Laundry Room Stuff? Detergent Powder Scoop
+- Kitchen
+  - [ ] Fruit Baskets
+  - [ ] Countertop Shelves
+  - [ ] Scoops
+  - [ ] Spice Racks
+  - [ ] Paper Towel Holder
+  - [ ] Cookie Jar
+  - [ ] Bag Clips
+  - [ ] Dough Roller
+  - Bread Box
+  - Fridge Organizer Box
+  - Pasta Cutter (Zigzag?)
+  - Magnetic Fridge Organizers
+- Bathroom
+  - [ ] Shower Curtain Hooks
+  - Bar Soap Holder
+  - Teeth Cleaning Station
+  - Wall Storage for Toothbrush Etc
+  - Towel Rod Hanger for More Towels Etc.
+  - Spare Toilet Paper Holder
+- Bedroom
+  - Nightstand Caddie/Charger
+- Craft Room
+  - Crochet Stuff
+- Garage (/ Tool Room?)
+  - Tool Organizers
+- Yard
+  - Garden Spade
+  - Camping?
+  - Mailbox Thing
+- Toys
+  - Classic Public Domain Toys
+  - Board Games
+- Gym (Health)
+  - [ ] Yoga Mat Hanger
+  - Exercise Goal Visualizer
+- Anywhere
+  - [ ] Outlet Cover
+  - [ ] Key Rack
+  - [ ] Mail Station
+  - Planters
+  - Refillable Tissue Boxes
+  - Doilies (sue me)
+- Pets
+  - Treat Jar
+  - Leash Hanger
 </details>
 
 
