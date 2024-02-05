@@ -31,7 +31,6 @@ Desk
   - ○ Joystick Holder
   - ○ Cable Organizer
   - ? Keyboard Wristpad?
-```
 - Drawer
   - Drawer Bottom Partitions
   - Mezzanine Shelves on Different Sides
@@ -100,7 +99,7 @@ Desk
   - Treat Jar
   - Leash Hanger
 </details>
-
+```
 
 
 ---
