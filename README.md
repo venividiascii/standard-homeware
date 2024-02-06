@@ -15,12 +15,13 @@ The original Animal Crossing game had dozens of furniture sets, eash with a bed,
 ### Planned Inventory
 Organized by Location. Similar Items of Different Sizes Should Be Combined into One Item. 
 ```
-**Key:**   
+Key  
 ○ Idea only
-◔ Rough model  
-◑ Functional model  
-◕ Release candidate  
-⬤ Design Complete (v1.0+)   
+◔ Design started
+◑ Rough design
+◕ Functional model
+⬤ Design complete (v1.0+)   
+
 Desk  
   ◔ Pencil Cup / Tool Caddy
   ○ Easel, from Business Card to Paper Size
