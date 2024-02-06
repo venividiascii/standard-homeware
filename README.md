@@ -23,35 +23,35 @@ Organized by Location. Similar Items of Different Sizes Should Be Combined into 
 ⬤ Design Complete (v1.0+)   
 Desk  
   ◔ Pencil Cup / Tool Caddy
-  - ○ Easel, from Business Card to Paper Size
-  - ○ Picture Frame
-  - ○ Charging Station
-  - ○ Headphone Stand
-  - ○ Tape Dispenser (Mini and Wieghted)
-  - ○ Joystick Holder
-  - ○ Cable Organizer
-  - ? Keyboard Wristpad?
-- Drawer
+  ○ Easel, from Business Card to Paper Size
+  ○ Picture Frame
+  ○ Charging Station
+  ○ Headphone Stand
+  ○ Tape Dispenser (Mini and Wieghted)
+  ○ Joystick Holder
+  ○ Cable Organizer
+  ? Keyboard Wristpad?
+Drawer
   - Drawer Bottom Partitions
   - Mezzanine Shelves on Different Sides
   - Hanging Desk Drawer Organizer
   - Drawer Wall Hanger
-- Shelf
+Shelf
   - [X] Vertical Paper Holder
-  - [x] Bookends
+  - [ ] Bookends
   - Paper Holders. All Orientations
-- Wall
+Wall
   - [ ] Picture Frames
   - Headphone Hanger
   - Paper Holders
-- Closet
+Closet
   - Hangers. Swivel Top?
   - Modular Hanger for Shoes Etc. Make It Longer
   - Tie Organizer
   - Accessories
   - Crochet Bases, like a Shoe Sole
   - Laundry Room Stuff? Detergent Powder Scoop
-- Kitchen (With food-safe material and/or coating)
+Kitchen (With food-safe material and/or coating)
   - [ ] Fruit Baskets
   - [ ] Countertop Shelves
   - [ ] Scoops
@@ -65,37 +65,37 @@ Desk
   - Fridge Organizer Box
   - Pasta Cutter (Zigzag?)
   - Magnetic Fridge Organizers
-- Bathroom
+Bathroom
   - [ ] Shower Curtain Hooks
   - Bar Soap Holder
   - Teeth Cleaning Station
   - Wall Storage for Toothbrush Etc
   - Towel Rod Hanger for More Towels Etc.
   - Spare Toilet Paper Holder
-- Bedroom
+Bedroom
   - Nightstand Caddie/Charger
-- Craft Room
+Craft Room
   - Crochet Stuff
-- Garage (/ Tool Room?)
+Garage (/ Tool Room?)
   - Tool Organizers
-- Yard
+Yard
   - Garden Spade
   - Camping?
   - Mailbox Thing
-- Toys
+Toys
   - Classic Public Domain Toys
   - Board Games
-- Gym (Health)
+Gym (Health)
   - [ ] Yoga Mat Hanger
   - Exercise Goal Visualizer
-- Anywhere
+Anywhere
   - [ ] Outlet Cover
   - [ ] Key Rack
   - [ ] Mail Station
   - Planters
   - Refillable Tissue Boxes
   - Doilies (sue me)
-- Pets
+Pets
   - Treat Jar
   - Leash Hanger
 </details>
