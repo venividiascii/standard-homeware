@@ -62,6 +62,7 @@ Kitchen (With food-safe material and/or coating)
   - [ ] Bag Clips
   - [ ] Dough Roller
   - [ ] Cookie Cutter
+  - Napkin Holder
   - Bread Box
   - Fridge Organizer Box
   - Pasta Cutter (Zigzag?)
